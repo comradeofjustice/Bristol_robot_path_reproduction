@@ -1,0 +1,1 @@
+trial_id,robot_id,plan_version,surface,battery_condition,wheel_radius_left_mm,wheel_radius_right_mm,wheelbase_mm,cpr,video_fps,calibration_mm_per_pixel,sync_uncertainty_ms,robot_log,video_log,trial_status,notes

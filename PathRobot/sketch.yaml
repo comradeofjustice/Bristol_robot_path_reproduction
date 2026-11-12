@@ -1,0 +1,1 @@
+default_fqbn: m5stack:esp32:m5stack_stamp_c3:CDCOnBoot=default,UploadSpeed=115200

@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+build/
+*.elf
+*.bin
+/results/*
+!/results/simulation_baseline.png
+!/results/trial_metadata.csv

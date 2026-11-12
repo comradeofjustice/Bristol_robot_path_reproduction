@@ -1,0 +1,9 @@
+name,duration_ms,left_pwm,right_pwm
+straight_slow,2000,60,60
+straight_fast,1500,100,100
+pause_before_arc,500,0,0
+left_arc,2000,45,95
+rotate_in_place,1000,-60,60
+rotation_trim,50,-62,62
+reverse,1600,-65,-65
+settle,1000,0,0
